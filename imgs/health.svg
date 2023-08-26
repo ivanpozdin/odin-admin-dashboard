@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 -960 960 960"
+   width="48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="health.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showborder="false"
+     inkscape:zoom="18.020833"
+     inkscape:cx="24"
+     inkscape:cy="7.4913295"
+     inkscape:window-width="1392"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 552,-3.47e-5 q -134.4,0 -223.2,-94.3178893 Q 240,-188.63582 240,-319.59953 v -42.05256 Q 138,-374.8686 69,-452.61899 0,-530.36937 0,-635.5945 V -911.93992 H 144 V -960 h 72 v 168.21025 h -72 v -48.06007 H 72 v 203.86722 q 0,85.69472 59.4,145.16907 59.4,59.47433 144.6,59.47433 85.2,0 144.6,-59.47433 59.4,-59.47435 59.4,-145.16907 v -203.86722 h -72 v 48.06007 H 336 V -960 h 72 v 48.06008 h 144 v 276.34542 q 0,105.22513 -69,182.97551 -69,77.75039 -171,90.9669 v 42.05256 q 0,102.12767 67.8,174.81853 67.8,72.690858 172.2,72.690858 97.2,0 168.6,-72.272738 71.4,-72.27275 71.4,-175.519 v -92.23329 q -42,-12.01501 -69,-46.85856 -27,-34.84356 -27,-80.50062 0,-55.06845 38.5416,-93.61743 38.5404,-38.54778 93.6,-38.54778 55.0584,0 93.4584,38.54778 38.4,38.54898 38.4,93.61743 0,45.65706 -27,80.50062 -27,34.84355 -69,46.85856 v 92.51564 q 0,133.36672 -91.8,226.4831 Q 680.4,-3.47e-5 552,-3.47e-5 Z M 827.79,-479.39927 q 25.41,0 42.81,-17.21151 17.4,-17.21032 17.4,-42.65331 0,-25.44181 -17.19,-42.86358 -17.1888,-17.42178 -42.6,-17.42178 -25.41,0 -42.81,17.21151 -17.4,17.21031 -17.4,42.65331 0,25.44181 17.19,42.86358 17.1888,17.42178 42.6,17.42178 z m 0.21,-60.07508 z"
+     id="path1"
+     style="stroke-width:0.999996" />
+</svg>
