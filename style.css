@@ -72,8 +72,8 @@ body {
 
 .header-top .user-logo {
   border-radius: 50%;
-  height: 8rem;
-  width: 8rem;
+  height: 6rem;
+  width: 6rem;
   object-fit: cover;
 }
 
@@ -145,12 +145,12 @@ body {
 }
 
 .sidebar .logo img {
-  height: 4rem;
+  height: 3rem;
 }
 
 .sidebar .logo h2 {
-  line-height: 3rem;
-  font-size: 4rem;
+  line-height: 2rem;
+  font-size: 2.5rem;
 }
 
 .sidebar .side-item {
@@ -167,7 +167,7 @@ body {
 
 .sidebar .side-item h3 {
   line-height: 2rem;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .sidebar .profile {
@@ -201,7 +201,7 @@ body {
   grid-column-start: 2;
   padding: 2rem 4ch;
   display: grid;
-  grid-template: auto auto / 2fr 1fr;
+  grid-template: auto auto / 3fr 1fr;
 }
 
 .main-content h3 {
@@ -229,10 +229,22 @@ body {
 }
 .main-content .card {
   padding: 10px 20px;
-  font-size: 2rem;
+  font-size: 1.7rem;
   background-color: #fff;
   border-left: 1ch solid #facc15;
   border-radius: 2rem;
+}
+
+.main-content .card:hover {
+  background-color: #f8fafc;
+}
+
+.main-content .card h4 {
+  margin-bottom: 0;
+}
+.main-content .card p {
+  margin-top: 0.5rem;
+  color: #475569;
 }
 
 .main-content .card .card-actions-container {
@@ -275,6 +287,10 @@ body {
   padding-right: 3rem;
 }
 
+.main-content .announcements:hover {
+  background-color: #f8fafc;
+}
+
 .main-content .announcement {
   font-size: 1.5rem;
   padding: 3rem 0;
@@ -291,7 +307,7 @@ body {
 }
 
 .main-content .announcements > div:nth-child(n + 2) {
-  border-top: 2px solid black;
+  border-top: 1px solid #64748b;
 }
 
 .trending-container .user-logo {
@@ -310,6 +326,11 @@ body {
   border-radius: 1.5rem;
   padding: 3rem 3rem;
 }
+
+.trendings:hover {
+  background-color: #f8fafc;
+}
+
 .trending-card {
   display: flex;
   align-items: center;
