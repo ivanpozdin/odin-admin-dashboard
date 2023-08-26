@@ -235,6 +235,32 @@ body {
   border-radius: 2rem;
 }
 
+.main-content .card .card-actions-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  gap: 1ch;
+}
+
+.main-content .card .card-actions-container button {
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  padding: 0.3rem;
+}
+
+.main-content .card .card-actions-container button:hover {
+  border-color: #0ea5e9;
+}
+
+.main-content .card .card-actions-container img:hover {
+  opacity: 80%;
+}
+
+.main-content .card .card-actions-container img {
+  height: 2rem;
+}
+
 .main-content .announcements-container {
   padding: 1rem 1rem;
   grid-row-start: 1;
