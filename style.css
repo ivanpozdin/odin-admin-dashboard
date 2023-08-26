@@ -233,6 +233,9 @@ body {
   background-color: #fff;
   border-left: 1ch solid #facc15;
   border-radius: 2rem;
+
+  display: grid;
+  grid-template-rows: auto 1fr auto;
 }
 
 .main-content .card:hover {
